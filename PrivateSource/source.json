@@ -1,35 +1,57 @@
 {
 	"name": "SEGUIN Apps",
 	"subtitle": "Source de toutes mes applications à usage privé.",
-	"description": "Bienvenu à ma famille et mes proches sur ma source privée.",
-	"iconURL": "https://raw.githubusercontent.com/Youvataque/main/PrivateSource/pp.jpg",
+	"description": "Bienvenue à ma famille et mes proches sur ma source privée.",
+	"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/pp.jpg",
 	"headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
 	"website": "https://seguin-dev.com",
-	"patreonURL": "",
 	"tintColor": "#086ad3",
 	"featuredApps": [],
 	"apps": [
 		{
 			"name": "HomeFlix",
 			"bundleIdentifier": "com.youvataque.homeflix",
-			"marketplaceID": "6740914654",
 			"developerName": "SEGUIN Yannis",
-			"subtitle": "temp",
-			"localizedDescription": "temp",
-			"iconURL": "https://raw.githubusercontent.com/Youvataque/main/PrivateSource/icon.jpg",
+			"subtitle": "Une application de streaming privée",
+			"localizedDescription": "HomeFlix vous permet d'accéder à vos films et séries préférés en toute simplicité et sans limite ^^.",
+			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/icon.jpg",
 			"tintColor": "#E5484D",
 			"category": "streaming",
 			"screenshots": [
-				"https://raw.githubusercontent.com/Youvataque/main/PrivateSource/img1.jpg",
-				"https://raw.githubusercontent.com/Youvataque/main/PrivateSource/img2.jpg",
-				"https://raw.githubusercontent.com/Youvataque/main/PrivateSource/img3.jpg",
-				"https://raw.githubusercontent.com/Youvataque/main/PrivateSource/img4.jpg"
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img1.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img2.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img3.jpg",
+					"width": 1280,
+					"height": 720
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img4.jpg",
+					"width": 1280,
+					"height": 720
+				}
 			],
 			"versions": [
-				"1.2"
+				{
+					"version": "1.2",
+					"date": "2025-01-30T09:00:00Z",
+					"size": 20000000,
+					"downloadURL": "https://tonserveur.com/homeflix_v1.2.ipa",
+					"localizedDescription": "Nouvelles fonctionnalités et corrections de bugs.",
+					"minOSVersion": "12.0",
+					"buildVersion": "102"
+				}
 			],
 			"appPermissions": {}
 		}
 	],
 	"news": []
-  }
+}
