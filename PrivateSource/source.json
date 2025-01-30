@@ -1,11 +1,11 @@
 {
 	"name": "SEGUIN Apps",
 	"subtitle": "Source de toutes mes applications a usage prive.",
-	"identifier": "com.youvataque.private",
+	"identifier": "com.youvataque.homeflix",
 	"description": "Bienvenue a ma famille et mes proches sur ma source privee.",
 	"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/pp.jpg",
 	"website": "https://seguin-dev.com",
-	"tintColor": "#086ad3",
+	"tintColor": "086ad3",
 	"featuredApps": [
 		"com.youvataque.homeflix"
 	],
@@ -17,7 +17,7 @@
 			"subtitle": "Une application de streaming privee",
 			"localizedDescription": "HomeFlix vous permet d'acceder a vos films et series preferes en toute simplicite et ce sans limite ^^.",
 			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/icon.jpg",
-			"tintColor": "#E5484D",
+			"tintColor": "E5484D",
 			"category": "entertainment",
 			"marketplaceID": "6740914654",
 			"screenshots": [
@@ -47,7 +47,7 @@
 					"version": "1.2",
 					"date": "2025-01-30T09:00:00Z",
 					"size": 57000000,
-					"downloadURL": "https://github.com/Youvataque/altstore/tree/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71/",
+					"downloadURL": "https://github.com/Youvataque/altstore/tree/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71",
 					"localizedDescription": "Lancement sur Altstore.",
 					"minOSVersion": "12.0",
 					"buildVersion": "1"
