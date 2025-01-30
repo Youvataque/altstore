@@ -42,13 +42,13 @@
 			],
 			"versions": [
 				{
-					"version": "1.0",
+					"version": "1.2",
 					"date": "2025-01-30T09:00:00Z",
 					"size": 57000000,
 					"downloadURL": "https://github.com/Youvataque/altstore/tree/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71/",
 					"localizedDescription": "Lancement sur Altstore.",
 					"minOSVersion": "12.0",
-					"buildVersion": "1.2.0"
+					"buildVersion": "1"
 				}
 			],
 			"marketplaceID": "6740914654",
