@@ -45,7 +45,7 @@
 			"versions": [
 				{
 					"version": "1.2",
-					"date": "2025-01-30T09:00:00Z",
+					"date": "2025-01-30T09:00:00+00:00",
 					"size": 57000000,
 					"downloadURL": "https://github.com/Youvataque/altstore/tree/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71",
 					"localizedDescription": "Lancement sur Altstore.",
@@ -53,7 +53,9 @@
 					"buildVersion": "1"
 				}
 			],
-			"appPermissions": {}
+			"appPermissions": {
+				"privacy": {}
+			}
 		}
 	]
 }
