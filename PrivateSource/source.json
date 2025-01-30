@@ -1,6 +1,7 @@
 {
 	"name": "SEGUIN Apps",
 	"subtitle": "Source de toutes mes applications à usage privé.",
+	"identifier": "com.seguin.altstore",
 	"description": "Bienvenue à ma famille et mes proches sur ma source privée.",
 	"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/pp.jpg",
 	"headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
