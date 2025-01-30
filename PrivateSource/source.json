@@ -1,0 +1,33 @@
+{
+	"name": "SEGUIN Apps",
+	"subtitle": "Source de toutes mes applications à usage privé.",
+	"description": "Bienvenu à ma famille et mes proches sur ma source privée.",
+	"iconURL": "https://github.com/Youvataque/altstore/blob/main/PrivateSource/pp.jpg",
+	"headerURL": "https://example.com/source_header.png",
+	"website": "https://seguin-dev.com",
+	"patreonURL": "",
+	"tintColor": "#086ad3 ",
+	"featuredApps": [],
+	"apps": [
+		{
+			"name": "HomeFlix",
+			"bundleIdentifier": "com.youvataque.homeflix",
+			"marketplaceID": "6740914654",
+			"developerName": "SEGUIN Yannis",
+			"subtitle": "temp",
+			"localizedDescription": "temp",
+			"iconURL": "https://github.com/Youvataque/altstore/blob/main/PrivateSource/icon.jpg",
+			"tintColor": "#E5484D",
+			"category": "streaming",
+			"screenshots": [
+				"https://github.com/Youvataque/altstore/blob/main/PrivateSource/img1.jpg",
+				"https://github.com/Youvataque/altstore/blob/main/PrivateSource/img2.jpg",
+				"https://github.com/Youvataque/altstore/blob/main/PrivateSource/img3.jpg",
+				"https://github.com/Youvataque/altstore/blob/main/PrivateSource/img4.jpg"
+			],
+			"versions": [1.2],
+			"appPermissions": {}
+		}
+	],
+	"news": []
+  }
