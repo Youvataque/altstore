@@ -14,10 +14,10 @@
 			"bundleIdentifier": "com.youvataque.homeflix",
 			"developerName": "SEGUIN Yannis",
 			"subtitle": "Une application de streaming privée",
-			"localizedDescription": "HomeFlix vous permet d'accéder à vos films et séries préférés en toute simplicité et sans limite ^^.",
+			"localizedDescription": "HomeFlix vous permet d'accéder à vos films et séries préférés en toute simplicité et ce sans limite ^^.",
 			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/icon.jpg",
 			"tintColor": "#E5484D",
-			"category": "streaming",
+			"category": "photo-video",
 			"screenshots": [
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img1.jpg",
