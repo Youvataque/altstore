@@ -1,7 +1,7 @@
 {
 	"name": "SEGUIN Apps",
 	"subtitle": "Source de toutes mes applications à usage privé.",
-	"identifier": "com.seguin.altstore",
+	"identifier": "com.youvataque.private",
 	"description": "Bienvenue à ma famille et mes proches sur ma source privée.",
 	"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/pp.jpg",
 	"headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
@@ -21,23 +21,23 @@
 			"screenshots": [
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img1.jpg",
-					"width": 1280,
-					"height": 720
+					"width": 2556,
+            		"height": 1179
 				},
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img2.jpg",
-					"width": 1280,
-					"height": 720
+					"width": 2556,
+            		"height": 1179
 				},
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img3.jpg",
-					"width": 1280,
-					"height": 720
+					"width": 2556,
+            		"height": 1179
 				},
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img4.jpg",
-					"width": 1280,
-					"height": 720
+					"width": 2556,
+            		"height": 1179
 				}
 			],
 			"versions": [
@@ -46,7 +46,7 @@
 					"date": "2025-01-30T09:00:00Z",
 					"size": 20000000,
 					"downloadURL": "https://github.com/Youvataque/altstore/tree/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71/",
-					"localizedDescription": "Nouvelles fonctionnalités et corrections de bugs.",
+					"localizedDescription": "Lancement sur Altstore.",
 					"minOSVersion": "12.0",
 					"buildVersion": "102"
 				}
