@@ -22,37 +22,37 @@
 			"marketplaceID": "6740914654",
 			"screenshots": [
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_0.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_0.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_1.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_1.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_2.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_2.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_3.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_3.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_4.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_4.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_5.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_5.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/img_6.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/img_6.jpg",
 					"width": 2556,
 					"height": 1179
 				}
@@ -60,9 +60,9 @@
 			"versions": [
 				{
 					"version": "1.4.0",
-					"date": "2025-02-06T09:00:00Z",
+					"date": "2025-02-06T08:00:00Z",
 					"size": 57000000,
-					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/82c3ee8f-af7f-45d1-850c-b434ede79ce7/",
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/2ee3d2817db530d790477047bb5854f98540ed3c57bcb424af2e46ad14d7d35f/",
 					"localizedDescription": "Mise à jour player - correction de la lecture des séries incomplète - correction des nouvelles requètes auth.",
 					"minOSVersion": "14.0",
 					"buildVersion": "1"
@@ -71,7 +71,7 @@
 					"version": "1.3.0",
 					"date": "2025-02-04T19:00:00Z",
 					"size": 57000000,
-					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/82c3ee8f-af7f-45d1-850c-b434ede79ce7/",
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/82c3ee8f-af7f-45d1-850c-b434ede79ce7/",
 					"localizedDescription": "Refonte ui - système d'authentification.",
 					"minOSVersion": "14.0",
 					"buildVersion": "1"
@@ -80,7 +80,7 @@
 					"version": "1.2.0",
 					"date": "2025-01-30T09:00:00Z",
 					"size": 57000000,
-					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/9da77a5d-bdb6-4a13-96f0-df6a55220e71/",
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/9da77a5d-bdb6-4a13-96f0-df6a55220e71/",
 					"localizedDescription": "Lancement sur Altstore.",
 					"minOSVersion": "12.0",
 					"buildVersion": "1"
