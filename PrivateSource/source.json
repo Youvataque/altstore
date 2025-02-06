@@ -63,7 +63,8 @@
 					"date": "2025-02-06T08:00:00Z",
 					"size": 57000000,
 					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/2ee3d2817db530d790477047bb5854f98540ed3c57bcb424af2e46ad14d7d35f/",
-					"localizedDescription": "Mise à jour du lecteur - correction de la lecture incomplète des séries - correction des nouvelles requêtes d'authentification."					"minOSVersion": "14.0",
+					"localizedDescription": "Mise à jour du lecteur - correction de la lecture incomplète des séries - correction des nouvelles requêtes d'authentification.",					
+					"minOSVersion": "14.0",
 					"buildVersion": "1"
 				},
 				{
