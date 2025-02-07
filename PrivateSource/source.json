@@ -59,6 +59,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.4.1",
+					"date": "2025-02-06T11:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/81a7b80b-d831-4419-96ed-ac4c7a633dc2/",
+					"localizedDescription": "Petite correction d'ui - correction d'un bug dans les séries - correction de la recherche interne.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.4.0",
 					"date": "2025-02-06T08:00:00Z",
 					"size": 57000000,
