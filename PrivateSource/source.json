@@ -59,6 +59,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.4.2",
+					"date": "2025-03-03T21:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/360db0f9-f8a1-44ac-9491-13372b307522/",
+					"localizedDescription": "Gestion de la source déplacé vers une api externe au code public.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.4.1",
 					"date": "2025-02-06T11:00:00Z",
 					"size": 57000000,
