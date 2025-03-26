@@ -59,6 +59,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.5.0",
+					"date": "2025-03-26T19:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/cf86f0a1-aff1-410f-abac-2cff273ac400/",
+					"localizedDescription": "Correction : creation de path en dur, recherche de path, ui serieDownloader, ",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.4.2",
 					"date": "2025-03-03T21:00:00Z",
 					"size": 57000000,
