@@ -59,6 +59,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.5.1",
+					"date": "2025-03-30T19:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/6a41b002-cb2f-4bf4-9045-7d9fefddcc49/",
+					"localizedDescription": "Correction : système épisode par épisode.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.5.0",
 					"date": "2025-03-26T19:00:00Z",
 					"size": 57000000,
