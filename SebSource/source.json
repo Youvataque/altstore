@@ -1,0 +1,13 @@
+{
+	"name": "Sols Énergies Bains",
+	"subtitle": "La source professionnel de l'entreprise !",
+	"identifier": "com.solsenergiesbains.source",
+	"description": "Bienvenue chers employés, vous retrouverez ici l'ensemble des logiciels de l'entreprise.",
+	"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/pp.jpg",
+	"website": "https://www.solsenergiesbains.com/",
+	"tintColor": "#0B1632",
+	"featuredApps": [
+		"com.BatiConnect.WebSite"
+	],
+	"apps": []
+}
