@@ -30,12 +30,12 @@
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img2.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img1.jpg",
 					"width": 2556,
 					"height": 1179
 				},
 				{
-					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img3.jpg",
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img2.jpg",
 					"width": 2556,
 					"height": 1179
 				}
@@ -45,8 +45,55 @@
 					"version": "1.2.0",
 					"date": "2025-05-02T00:00:00Z",
 					"size": 57000000,
-					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/6a41b002-cb2f-4bf4-9045-7d9fefddcc49/",
-					"localizedDescription": "Correction : système épisode par épisode.",					
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/c7364296-b911-4a80-8f7b-b08640abf080/",
+					"localizedDescription": "Upload de sebconnect : website sur une source privé de l'entreprise.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				}
+			],
+			"appPermissions": {
+				"privacy": {}
+			}
+		},
+		{
+			"name": "Intervention",
+			"bundleIdentifier": "com.sebConnect.intervention",
+			"developerName": "SEGUIN Yannis",
+			"subtitle": "SebConnect : intervention",
+			"localizedDescription": "Votre application pour prendre, organiser et partager vos entretiens de climatisation",
+			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/icon.jpg",
+			"tintColor": "#308AC8",
+			"category": "utilities",
+			"marketplaceID": "6745273749",
+			"screenshots": [
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/img.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/img1.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/img2.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/img3.jpg",
+					"width": 2556,
+					"height": 1179
+				}
+			],
+			"versions": [
+				{
+					"version": "2.0.0",
+					"date": "2025-05-02T00:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/versions/ccff8d6f-e5ca-4134-a908-c96f95041bf2/",
+					"localizedDescription": "Upload de sebconnect : intervention sur une source privé de l'entreprise.",					
 					"minOSVersion": "14.0",
 					"buildVersion": "1"
 				}
