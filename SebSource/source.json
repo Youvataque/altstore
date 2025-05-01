@@ -101,6 +101,48 @@
 			"appPermissions": {
 				"privacy": {}
 			}
+		},
+		{
+			"name": "Chantier",
+			"bundleIdentifier": "com.sebConnect.chantier",
+			"developerName": "SEGUIN Yannis",
+			"subtitle": "SebConnect : chantier",
+			"localizedDescription": "Votre application pour oraganiser, suivre et diriger vos chantiers !",
+			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/icon.jpg",
+			"tintColor": "#F6993C",
+			"category": "utilities",
+			"marketplaceID": "6745278896",
+			"screenshots": [
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/img.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/img1.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/img2.jpg",
+					"width": 2556,
+					"height": 1179
+				}
+			],
+			"versions": [
+				{
+					"version": "2.0.0",
+					"date": "2025-05-02T00:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/versions/2dcbe00a-1a53-44e4-b857-ebea243fb49d/",
+					"localizedDescription": "Upload de sebconnect : chantier sur une source privé de l'entreprise.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "2.0.0"
+				}
+			],
+			"appPermissions": {
+				"privacy": {}
+			}
 		}
 	]
 }
