@@ -7,7 +7,53 @@
 	"website": "https://www.solsenergiesbains.com/",
 	"tintColor": "#0B1632",
 	"featuredApps": [
+		"com.sebConnect.intervention",
+		"com.sebConnect.devis",
+		"com.sebConnect.chantier",
 		"com.BatiConnect.WebSite"
 	],
-	"apps": []
+	"apps": [
+		{
+			"name": "Website",
+			"bundleIdentifier": "com.BatiConnect.WebSite",
+			"developerName": "SEGUIN Yannis",
+			"subtitle": "SebConnect : website",
+			"localizedDescription": "Votre application pour gérer votre site internet !",
+			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/icon.jpg",
+			"tintColor": "#141684",
+			"category": "utilities",
+			"marketplaceID": "6745264911",
+			"screenshots": [
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img2.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img3.jpg",
+					"width": 2556,
+					"height": 1179
+				}
+			],
+			"versions": [
+				{
+					"version": "1.2.0",
+					"date": "2025-05-02T00:00:00Z",
+					"size": 57000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/PrivateSource/homeflix/versions/6a41b002-cb2f-4bf4-9045-7d9fefddcc49/",
+					"localizedDescription": "Correction : système épisode par épisode.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				}
+			],
+			"appPermissions": {
+				"privacy": {}
+			}
+		}
+	]
 }
