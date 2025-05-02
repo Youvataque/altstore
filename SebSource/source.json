@@ -91,7 +91,7 @@
 				{
 					"version": "2.0.0",
 					"date": "2025-05-02T00:00:00Z",
-					"size": 57000000,
+					"size": 22000000,
 					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_intervention/versions/ccff8d6f-e5ca-4134-a908-c96f95041bf2/",
 					"localizedDescription": "Upload de sebconnect : intervention sur une source privé de l'entreprise.",					
 					"minOSVersion": "14.0",
@@ -133,7 +133,7 @@
 				{
 					"version": "2.0.0",
 					"date": "2025-05-02T00:00:00Z",
-					"size": 57000000,
+					"size": 22000000,
 					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_chantier/versions/2dcbe00a-1a53-44e4-b857-ebea243fb49d/",
 					"localizedDescription": "Upload de sebconnect : chantier sur une source privé de l'entreprise.",					
 					"minOSVersion": "14.0",
