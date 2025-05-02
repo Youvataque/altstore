@@ -52,7 +52,10 @@
 				}
 			],
 			"appPermissions": {
-				"privacy": {}
+				"privacy": {
+					"NSCameraUsageDescription": "Nous avons besoin d'accéder à la caméra pour prendre des photos.",
+					"NSPhotoLibraryUsageDescription": "Nous avons besoin d'accéder à la bibliothèque pour sélectionner des photos."
+				}
 			}
 		},
 		{
