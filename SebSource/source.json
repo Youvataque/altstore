@@ -8,7 +8,7 @@
 	"tintColor": "#0B1632",
 	"featuredApps": [
 		"com.sebConnect.intervention",
-		"com.sebConnect.devis",
+		"com.sebConnect.Devis",
 		"com.sebConnect.chantier",
 		"com.SebConnect.WebSite"
 	],
@@ -141,6 +141,48 @@
 					"localizedDescription": "Upload de sebconnect : chantier sur une source privé de l'entreprise.",					
 					"minOSVersion": "14.0",
 					"buildVersion": "2.0.0"
+				}
+			],
+			"appPermissions": {
+				"privacy": {}
+			}
+		},
+		{
+			"name": "Devis",
+			"bundleIdentifier": "com.sebConnect.Devis",
+			"developerName": "SEGUIN Yannis",
+			"subtitle": "SebConnect : devis",
+			"localizedDescription": "Votre application pour prendre et suivre vos devis en un éclair !",
+			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_devis/icon.jpg",
+			"tintColor": "#46B556",
+			"category": "utilities",
+			"marketplaceID": "6745301538",
+			"screenshots": [
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_devis/img.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_devis/img1.jpg",
+					"width": 2556,
+					"height": 1179
+				},
+				{
+					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_devis/img2.jpg",
+					"width": 2556,
+					"height": 1179
+				}
+			],
+			"versions": [
+				{
+					"version": "2.0.0",
+					"date": "2025-05-03T00:19:00Z",
+					"size": 22000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_devis/versions/1d1f9a9b-091d-4ce7-ade1-9ec8f169250b/",
+					"localizedDescription": "Upload de sebconnect : devis sur une source privé de l'entreprise.",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
 				}
 			],
 			"appPermissions": {
