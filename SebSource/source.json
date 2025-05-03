@@ -22,7 +22,7 @@
 			"iconURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/icon.jpg",
 			"tintColor": "#141684",
 			"category": "utilities",
-			"marketplaceID": "6745264911",
+			"marketplaceID": "6745426065",
 			"screenshots": [
 				{
 					"imageURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/img.jpg",
@@ -45,9 +45,9 @@
 					"version": "1.2.0",
 					"date": "2025-05-02T00:00:00Z",
 					"size": 22000000,
-					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/c7364296-b911-4a80-8f7b-b08640abf080/",
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/8d195827-3a16-441a-bb5c-73e742bbd3d9/",
 					"localizedDescription": "Upload de sebconnect : website sur une source privé de l'entreprise.",					
-					"minOSVersion": "13.0",
+					"minOSVersion": "14.0",
 					"buildVersion": "1"
 				}
 			],
