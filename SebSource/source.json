@@ -10,12 +10,12 @@
 		"com.sebConnect.intervention",
 		"com.sebConnect.devis",
 		"com.sebConnect.chantier",
-		"com.BatiConnect.WebSite"
+		"com.SebConnect.WebSite"
 	],
 	"apps": [
 		{
 			"name": "Website",
-			"bundleIdentifier": "com.BatiConnect.WebSite",
+			"bundleIdentifier": "com.SebConnect.WebSite",
 			"developerName": "SEGUIN Yannis",
 			"subtitle": "SebConnect : website",
 			"localizedDescription": "Votre application pour gérer votre site internet !",
