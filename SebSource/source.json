@@ -46,7 +46,7 @@
 					"date": "2025-05-02T00:00:00Z",
 					"size": 22000000,
 					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/8d195827-3a16-441a-bb5c-73e742bbd3d9/",
-					"localizedDescription": "Upload de sebconnect : website sur une source privé de l'entreprise.",					
+					"localizedDescription": "Upload de sebconnect : website sur une source privé de l'entreprise...",					
 					"minOSVersion": "14.0",
 					"buildVersion": "1"
 				}
