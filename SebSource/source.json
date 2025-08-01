@@ -54,7 +54,8 @@
 			"appPermissions": {
 				"privacy": {
 					"NSCameraUsageDescription": "Nous avons besoin d'accéder à la caméra pour prendre des photos.",
-					"NSPhotoLibraryUsageDescription": "Nous avons besoin d'accéder à la bibliothèque pour sélectionner des photos."
+					"NSPhotoLibraryUsageDescription": "Nous avons besoin d'accéder à la bibliothèque pour sélectionner des photos.",
+					"NSUserNotificationUsageDescription": "Nous avons besoin d'autoriser les notifications pour vous tenir informé des nouvelles demandes de contact."
 				}
 			}
 		},
