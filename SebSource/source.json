@@ -42,6 +42,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.2.1",
+					"date": "2025-05-02T00:00:00Z",
+					"size": 22000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/3ae43eaf-6eed-47c7-a3f7-d0ee6de6e4ec/",
+					"localizedDescription": "Correction lien firebase et pushNotification",					
+					"minOSVersion": "14.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.2.0",
 					"date": "2025-05-02T00:00:00Z",
 					"size": 22000000,
