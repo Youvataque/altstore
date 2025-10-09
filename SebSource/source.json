@@ -46,7 +46,7 @@
 					"date": "2025-09-10T00:00:00Z",
 					"size": 22000000,
 					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/d527a64c-85bd-4bd4-9e0d-9ccc758b2678/",
-					"localizedDescription": "",					
+					"localizedDescription": "Ajout systeme de suppression d'édit complet et adaptation au nouveau site.",					
 					"minOSVersion": "15.0",
 					"buildVersion": "1"
 				},
