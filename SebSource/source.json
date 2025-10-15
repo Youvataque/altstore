@@ -42,6 +42,15 @@
 			],
 			"versions": [
 				{
+					"version": "1.3.1",
+					"date": "2025-09-10T00:00:00Z",
+					"size": 22000000,
+					"downloadURL": "https://raw.githubusercontent.com/Youvataque/altstore/main/SebSource/seb_website/versions/d9c550fb-c0b3-4893-89de-6550c7ad1384/",
+					"localizedDescription": "retrait de la limite sur le contenue des annonces.",					
+					"minOSVersion": "15.0",
+					"buildVersion": "1"
+				},
+				{
 					"version": "1.3.0",
 					"date": "2025-09-10T00:00:00Z",
 					"size": 22000000,
